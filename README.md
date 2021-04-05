@@ -1,1 +1,2 @@
 # Image-Similarity-Detection-Using-SIFT
+Manually Identifying Similarity between any images is a bit difficult task, so we have come up with an Image Similarity Detection model which will identify the similarities between two images using Scale Invariant Feature Transform (SIFT) algorithm. It detects Similarity between input images and calculates the Similarity score up to which extent the photos are matched. SIFT detects the key points and computes its descriptors. We will find the best matches of the descriptors by using FLANN Based algorithm.
